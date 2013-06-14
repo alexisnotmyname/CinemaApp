@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Movies</key>
+	<array>
+		<dict>
+			<key>Title</key>
+			<string>Iron Man 3</string>
+			<key>Description</key>
+			<string>Description 1</string>
+			<key>Ratings</key>
+			<string></string>
+			<key>Image</key>
+			<string></string>
+			<key>Trailer</key>
+			<string>2CzoSeClcw0</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Hangover Part III</string>
+			<key>Description</key>
+			<string>Description 2</string>
+			<key>Ratings</key>
+			<string></string>
+			<key>Image</key>
+			<string></string>
+			<key>Trailer</key>
+			<string>KLAkxSjs8ZY</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Fast and Furious 6</string>
+			<key>Description</key>
+			<string>Description 3</string>
+			<key>Ratings</key>
+			<string></string>
+			<key>Image</key>
+			<string></string>
+			<key>Trailer</key>
+			<string>dKi5XoeTN0k</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Man of Steel</string>
+			<key>Description</key>
+			<string>Description 4</string>
+			<key>Ratings</key>
+			<string></string>
+			<key>Image</key>
+			<string></string>
+			<key>Trailer</key>
+			<string>KVu3gS7iJu4</string>
+		</dict>
+	</array>
+</dict>
+</plist>

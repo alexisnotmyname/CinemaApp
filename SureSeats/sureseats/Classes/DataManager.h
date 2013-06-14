@@ -1,0 +1,13 @@
+//
+//  DataManager.h
+//  sureseats
+//
+//  Created by Martin on 5/27/13.
+//  Copyright (c) 2013 Ripplewave. All rights reserved.
+//
+
+#import <Foundation/Foundation.h>
+
+@interface DataManager : NSObject
+
+@end

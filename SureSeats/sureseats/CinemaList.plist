@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Malls</key>
+	<array>
+		<string>Alabang Town Center</string>
+		<string>Glorietta</string>
+		<string>Greenbelt</string>
+	</array>
+	<key>Cinemas</key>
+	<array>
+		<array>
+			<dict>
+				<key>Cinema Number</key>
+				<string>Cinema 1</string>
+				<key>Movie Title</key>
+				<string>Iron Man 3</string>
+				<key>Time</key>
+				<array>
+					<string>10:00am - 12:00pm</string>
+					<string>12:00pm - 02:00pm</string>
+					<string>02:00pm - 04:00pm</string>
+					<string>04:00pm - 06:00pm</string>
+					<string>06:00pm - 08:00pm</string>
+				</array>
+			</dict>
+			<dict>
+				<key>Cinema Number</key>
+				<string>Cinema 2</string>
+				<key>Movie Title</key>
+				<string>Fast and Furious 6</string>
+				<key>Time</key>
+				<array>
+					<string>09:00am - 10:30am</string>
+					<string>10:30am - 12:00pm</string>
+					<string>12:00pm - 01:30pm</string>
+				</array>
+			</dict>
+			<dict>
+				<key>Cinema Number</key>
+				<string>Cinema 3</string>
+				<key>Movie Title</key>
+				<string>Hangover Part III</string>
+				<key>Time</key>
+				<array>
+					<string>11:00am - 01:00pm</string>
+					<string>01:00pm - 03:00pm</string>
+					<string>03:00pm - 05:00pm</string>
+				</array>
+			</dict>
+		</array>
+		<array>
+			<dict>
+				<key>Cinema Number</key>
+				<string>Cinema 1</string>
+				<key>Movie Title</key>
+				<string>Iron Man 3</string>
+				<key>Time</key>
+				<array>
+					<string>Time 1</string>
+					<string>Time 2</string>
+				</array>
+			</dict>
+			<dict>
+				<key>Cinema Number</key>
+				<string>Hangover Part III</string>
+				<key>Movie Title</key>
+				<string>Movie 2</string>
+				<key>Time</key>
+				<array>
+					<string>Time 1</string>
+					<string>Time 2</string>
+					<string>Time 3</string>
+				</array>
+			</dict>
+		</array>
+		<array>
+			<dict>
+				<key>Cinema Number</key>
+				<string>Cinema 1</string>
+				<key>Movie Title</key>
+				<string>Hangover Part III</string>
+				<key>Time</key>
+				<array>
+					<string>Time 1</string>
+				</array>
+			</dict>
+			<dict>
+				<key>Cinema Number</key>
+				<string>Cinema 2</string>
+				<key>Movie Title</key>
+				<string>Iron Man 3</string>
+				<key>Time</key>
+				<array>
+					<string>Time 1</string>
+					<string>Time 2</string>
+				</array>
+			</dict>
+		</array>
+	</array>
+</dict>
+</plist>
